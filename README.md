@@ -1,7 +1,7 @@
 # Seeing Through Fog Dataloader
 ## Introduction
 
-The **Seeing Through Fog (STF)** dataset is a large-scale, multimodal autonomous driving dataset designed to study robust perception under adverse weather conditions, particularly dense fog. Unlike conventional driving datasets captured in clear weather, STF focuses on degraded visibility scenarios where camera-based perception systems struggle.
+The [**Seeing Through Fog (STF)**](https://light.princeton.edu/datasets/automated_driving_dataset/) dataset is a large-scale, multimodal autonomous driving dataset designed to study robust perception under adverse weather conditions, particularly dense fog. Unlike conventional driving datasets captured in clear weather, STF focuses on degraded visibility scenarios where camera-based perception systems struggle.
 
 To address this challenge, the dataset provides synchronized multi-sensor data, enabling research on sensor fusion, domain robustness, and adverse-weather perception.
 
