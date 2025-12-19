@@ -60,4 +60,4 @@ This code is for loading [Seeing Through Fog (STF)](https://github.com/princeton
           python STF_Dataloader.py create_stf_infos /home/saksham/samsad/mtech-project/datasets/SeeingThroghFog/pcdet/stf_config.yaml
     
 
-- Note this code is inspired from [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and a  [forkedrepo] (https://github.com/barzanisar/OpenPCDet)
+- Note this code is inspired from [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and a  [forked repo](https://github.com/barzanisar/OpenPCDet)
