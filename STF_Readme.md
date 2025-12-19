@@ -51,12 +51,12 @@ This code is for loading [Seeing Through Fog (STF)](https://github.com/princeton
     ```
 
 # Tp split data in train and val text file run : 
-    ```
+    
          python split.py
     
 
 # To generate pkl file for STF Dataset just run : 
-    ```
+    
           python STF_Dataloader.py create_stf_infos /home/saksham/samsad/mtech-project/datasets/SeeingThroghFog/pcdet/stf_config.yaml
     
 
