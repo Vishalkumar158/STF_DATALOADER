@@ -62,3 +62,9 @@ The dataset provides 3D object annotations in the vehicle coordinate frame, incl
 ## Purpose of This Repository
 
 This repository provides a custom dataloader and preprocessing pipeline for the Seeing Through Fog dataset, designed to integrate with 3D detection frameworks such as OpenPCDet. It enables efficient loading, augmentation, and preparation of STF data for training and evaluation of multimodal perception models. 
+
+## How to run this repo 
+- To run this repo first clone it using
+  ```
+     git clone https://github.com/Vishalkumar158/STF_DATALOADER.git
+- And then setup environment as suggested in [STF_Readme](https://github.com/Vishalkumar158/STF_DATALOADER/blob/main/STF_Readme.md)
