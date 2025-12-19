@@ -27,15 +27,15 @@ The dataset provides 3D object annotations in the vehicle coordinate frame, incl
 
 - Object categories such as:
 
-  - 'PassengerCar'
+  - `PassengerCar`
 
-  - 'Pedestrian'
+  - `Pedestrian`
 
-  - 'Cyclist'
+  - `Cyclist`
 
-  - 'Obstacle'
+  - `Obstacle`
 
-  - 'PassengerCar_is_group'
+  - `PassengerCar_is_group`
 
 - 3D bounding boxes (position, dimensions, orientation)
 
