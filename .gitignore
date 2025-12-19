@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Conda / venv
+env/
+venv/
+.conda/
+*.egg-info/
+
+# Build / compiled extensions
+*.so
+*.o
+*.a
+build/
+dist/
+
+# CUDA
+*.cu.o
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & outputs
+*.log
+*.pkl
+*.pth
+*.ckpt
+
+# Dataset (IMPORTANT)
+datasets/
+OUTPUT/
